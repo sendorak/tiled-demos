@@ -86,9 +86,6 @@
 </data>
  </layer>
  <layer id="1" name="map" width="38" height="38">
-  <properties>
-   <property name="WrapBorder" type="bool" value="true"/>
-  </properties>
   <data encoding="csv">
 4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
 4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
