@@ -1,0 +1,8 @@
+# tiles from 'map' layer to 'next' layer
+rule_01.tmx
+
+# tiles from 'next' layer to 'map' layer 
+rule_02.tmx
+
+# set all tiles in 'next' layer to empty tile
+rule_03.tmx
