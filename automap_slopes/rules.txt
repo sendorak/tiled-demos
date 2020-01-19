@@ -1,0 +1,15 @@
+rules/fill_empty.tmx
+
+rules/intermediate_to_primitives.tmx
+
+rules/gradient_1.tmx
+
+rules/intermediate_to_primitives.tmx
+
+rules/gradient_2.tmx 
+
+rules/intermediate_to_primitives.tmx
+
+rules/clean_intermediate.tmx
+
+rules/primitives_to_decoration.tmx
